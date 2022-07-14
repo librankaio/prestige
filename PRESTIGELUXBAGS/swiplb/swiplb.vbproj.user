@@ -2,8 +2,8 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>D:\pstg\published\|publish\</PublishUrlHistory>
-    <InstallUrlHistory>https://raw.githubusercontent.com/swifectdev/prestige/main/published/</InstallUrlHistory>
+    <PublishUrlHistory>D:\Dekstop Test\pstg\published\|D:\pstg\published\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://github.com/librankaio/prestige/blob/main/published/|https://raw.githubusercontent.com/swifectdev/prestige/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />
